@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
+| [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
