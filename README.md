@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
