@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //TC: O(n * n^2)
     void getAllSubsets(vector<int>& nums, vector<int> &ans, int i, vector<vector<int>> &allSubsets){
         if(i == nums.size()){
             allSubsets.push_back({ans});
