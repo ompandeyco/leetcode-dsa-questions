@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
