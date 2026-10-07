@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
