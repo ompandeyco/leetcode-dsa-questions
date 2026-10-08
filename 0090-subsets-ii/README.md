@@ -15,5 +15,5 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10</code></li>
-	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
+	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li> 
 </ul>
