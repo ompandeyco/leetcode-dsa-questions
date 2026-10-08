@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -69,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
