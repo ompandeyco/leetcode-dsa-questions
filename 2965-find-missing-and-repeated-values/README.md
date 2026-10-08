@@ -16,7 +16,7 @@
 <pre>
 <strong>Input:</strong> grid = [[9,1,7],[8,9,2],[3,4,6]]
 <strong>Output:</strong> [9,5]
-<strong>Explanation:</strong> Number 9 is repeated and number 5 is missing so the answer is [9,5].
+<strong>Explanation:</strong> Number 9 is repeated and number 5 is missing so the answer is [9,5]. 
 </pre>
 
 <p>&nbsp;</p>
