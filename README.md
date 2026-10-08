@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
