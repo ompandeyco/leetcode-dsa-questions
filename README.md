@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0001-two-sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 ## Hash Table
