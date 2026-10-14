@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
