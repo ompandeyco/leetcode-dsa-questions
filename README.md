@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
