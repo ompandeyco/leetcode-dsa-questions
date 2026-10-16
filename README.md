@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0151-reverse-words-in-a-string](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0443-string-compression) |
+| [0905-sort-array-by-parity](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
