@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
