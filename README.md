@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
