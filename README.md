@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Pigeonhole Principle
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
