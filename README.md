@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
