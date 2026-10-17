@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | ------- |
 | [0001-two-sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0078-subsets) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -159,5 +163,10 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
