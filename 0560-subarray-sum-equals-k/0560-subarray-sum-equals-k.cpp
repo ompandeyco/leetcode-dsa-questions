@@ -10,12 +10,14 @@ public:
             for(int j=i; j<n; j++){
                 sum += nums[j];
 
+
                 if(sum == k){
-                    count++;
+                count++;
                 }
             }
         }
         return count;
+
         
     }
 };
