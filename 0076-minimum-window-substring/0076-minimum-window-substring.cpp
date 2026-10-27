@@ -1,0 +1,43 @@
+class Solution {
+public:
+    string minWindow(string s, string t) {
+        if (s.empty() || t.empty() || s.length() < t.length()) return "";
+        vector<int> target_freq(128, 0);
+        for (char c : t) target_freq[c]++;
+        int required = 0;
+        for (int count : target_freq) {
+            if (count > 0) required++;
+        }
+        int left = 0, right = 0;
+        int formed = 0;
+        vector<int> window_counts(128, 0);
+        int min_len = -1, start_idx = 0;
+        while (right < s.length()) {
+            char c = s[right];
+            window_counts[c]++;
+            if (target_freq[c] > 0 && window_counts[c] == target_freq[c]) {
+                formed++;
+            }
+            while (left <= right && formed == required) {
+                if (min_len == -1 || right - left + 1 < min_len) {
+                    min_len = right - left + 1;
+                    start_idx = left;
+                }
+                char left_char = s[left];
+                window_counts[left_char]--;
+                if (target_freq[left_char] > 0 && window_counts[left_char] < target_freq[left_char]) {
+                    formed--;
+                }
+                left++;
+            }
+            right++;
+        }
+        return min_len == -1 ? "" : s.substr(start_idx, min_len);
+        //             }
+        //         }
+        //     }
+        //     }
+        // }
+        // }
+    }
+};
