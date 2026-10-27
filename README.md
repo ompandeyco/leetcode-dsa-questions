@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0001-two-sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0443-string-compression) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0076-minimum-window-substring) |
 ## Quicksort
 |  |
 | ------- |
