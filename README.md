@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0090-subsets-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0287-find-the-duplicate-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0015-3sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
