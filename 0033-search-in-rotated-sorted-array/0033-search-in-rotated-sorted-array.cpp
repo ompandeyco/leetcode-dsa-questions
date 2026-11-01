@@ -1,21 +1,20 @@
 class Solution {
 public:
     int search(vector<int>& A, int tar) {
-        int st = 0, end = A.size()-1;
+        int n = A.size();
+        int st = 0, end = n-1;
 
         while(st <= end){
             int mid = st+(end-st)/2;
-
-            if(A[mid] == tar) return mid;
-
-            if(A[st] <= A[mid]){  //left sorted
-                if(A[st] <= tar && tar <= A[mid]){
+            if(tar == A[mid]) return mid;
+            if(A[st] <= A[mid]){
+                if(tar >= A[st] && tar <= A[mid]){
                     end = mid-1;
                 }else{
                     st = mid+1;
                 }
-            }else{  //right sorted
-                if(A[mid] <= tar && tar <= A[end]){
+            }else{
+                if(tar >= A[mid] && tar <= A[end]){
                     st = mid+1;
                 }else{
                     end = mid-1;
