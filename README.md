@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0037-sudoku-solver](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
