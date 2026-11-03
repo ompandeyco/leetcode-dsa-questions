@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0704-binary-search](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0905-sort-array-by-parity) |
+| [2965-find-missing-and-repeated-values](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0229-majority-element-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0009-palindrome-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Om.
 | [0054-spiral-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ompandeyco/leetcode-dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
