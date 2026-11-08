@@ -5,7 +5,7 @@ public:
         vector<int> ans(n, 1);
 
         for(int i=1; i<n; i++){
-            ans[i] = nums[i-1] * ans[i-1];
+            ans[i] = ans[i-1] * nums[i-1];
         }
         int suffix = 1;
 
