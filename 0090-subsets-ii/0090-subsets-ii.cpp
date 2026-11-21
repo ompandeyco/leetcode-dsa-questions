@@ -20,8 +20,8 @@ public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
 
-        vector<vector<int>> allSubsets;
-        vector<int> ans;
+        vector<vector<int>>allSubsets;
+        vector<int>ans;
 
         getAllSubsets(nums, ans, 0, allSubsets);
         return allSubsets;
