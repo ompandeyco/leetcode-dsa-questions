@@ -5,14 +5,11 @@ public:
             allSubsets.push_back({ans});
             return;
         }
-        //include
 
         ans.push_back(nums[i]);
         getAllSubsets(nums, ans, i+1, allSubsets);
 
         ans.pop_back();
-
-        //exclude
         getAllSubsets(nums, ans, i+1, allSubsets);
     }
 
